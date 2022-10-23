@@ -87,7 +87,6 @@ fun NoteListScreen(
                         fontSize = 30.sp
                     )
                 }
-
             }
 
             LazyColumn(
